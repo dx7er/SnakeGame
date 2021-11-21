@@ -11,4 +11,4 @@ Don't forget to follow my github. :)
 Use `w`, `a`, `s`,`d` to move.
 
 # Make it EXE File.
-Run code to Make Exe file and then Play!
+Use Command: `g++ "filename.cpp" -o "output_filename"`
